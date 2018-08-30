@@ -1,0 +1,6 @@
+{
+    "root": "nytreact/",
+    "routes": {
+        "/**": "index.html"
+    }
+}
